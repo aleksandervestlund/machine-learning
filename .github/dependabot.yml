@@ -6,17 +6,7 @@ updates:
       interval: "daily"
     allow:
       - dependency-type: "all"
-    reviewers:
-      - "aleksandervestlund"
     ignore:
       - dependency-name: "shap"
-    commit-message:
-      prefix: "fix: "
-  - package-ecosystem: "github-actions"
-    directory: "/"
-    schedule:
-      interval: "daily"
-    reviewers:
-      - "aleksandervestlund"
     commit-message:
       prefix: "fix: "
