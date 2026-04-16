@@ -7,4 +7,4 @@ scikit-learn==1.8.0
 scipy==1.17.1
 shap==0.46.0
 tensorflow==2.21.0
-torch==2.10.0
+torch==2.11.0
