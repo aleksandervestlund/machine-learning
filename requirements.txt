@@ -3,7 +3,7 @@ imageio==2.37.4
 matplotlib==3.11.1
 numpy==2.4.6
 pandas==3.0.5
-scikit-learn==1.9.0
+scikit-learn==1.9.1
 scipy==1.17.1
 shap==0.46.0
 tensorflow==2.21.0
