@@ -2,7 +2,7 @@ gym==0.26.2
 imageio==2.37.4
 matplotlib==3.11.2
 numpy==2.4.6
-pandas==3.0.5
+pandas==3.0.6
 scikit-learn==1.9.1
 scipy==1.17.1
 shap==0.46.0
