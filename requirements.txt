@@ -1,5 +1,5 @@
 gym==0.26.2
-imageio==2.37.4
+imageio==2.38.1
 matplotlib==3.11.2
 numpy==2.4.6
 pandas==3.0.5
